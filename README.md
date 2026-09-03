@@ -9,7 +9,7 @@
 
 - 👨‍💻 26 years old, based in Thailand 🇹🇭
 - 🎓 Information & Communication Technology graduate (Digital Technology for Business) GPAX 3.29
-- 💻 3 years of experience developing web applications in a frontend dev role
+- 💻 3 years of experience developing web applications
 - ⌨️ Language of choice: **TypeScript**
 - 🧩 I enjoy engineering fullstack web applications and staying curious about new technology
 ---
